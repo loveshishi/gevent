@@ -20,7 +20,7 @@ idna==2.6
 incremental==17.5.0
 jsonpath==0.75
 lml==0.0.1
-lxml==4.2.1
+lxml==4.9.1
 parsel==1.4.0
 pbr==4.0.3
 Pillow==5.1.0
